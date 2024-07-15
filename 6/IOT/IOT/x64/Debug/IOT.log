@@ -1,0 +1,131 @@
+﻿  IOT.cpp
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(62,59): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(62,59): warning C4267:         with
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(62,59): warning C4267:         [
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(62,59): warning C4267:             _Ty=int
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(62,59): warning C4267:         ]
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(70,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(101,55): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(101,55): warning C4267:         with
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(101,55): warning C4267:         [
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(101,55): warning C4267:             _Ty=int
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(101,55): warning C4267:         ]
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(111,53): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(111,53): warning C4267:         with
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(111,53): warning C4267:         [
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(111,53): warning C4267:             _Ty=int
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(111,53): warning C4267:         ]
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(118,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(144,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(275,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(290,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(308,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(329,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(337,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(354,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(380,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(407,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(408,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(484,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(485,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(524,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(525,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(571,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(745,22): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'double', possible loss of data
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(756,22): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'double', possible loss of data
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(787,24): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(882,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(883,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\SVM.h(52,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\SVM.h(53,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\PCA.h(62,30): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\PCA.h(63,34): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\IOT.cpp(119,13): warning C4129: ' ': unrecognized character escape sequence
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\IOT.cpp(147,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,16): warning C4267: 'initializing': conversion from 'size_t' to '_Ty1', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,16): warning C4267:         with
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,16): warning C4267:         [
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,16): warning C4267:             _Ty1=int
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,16): warning C4267:         ]
+  (compiling source file 'IOT.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,16):
+  the template instantiation context (the oldest one first) is
+  	D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(621,9):
+  	see reference to function template instantiation 'std::pair<int,int>::pair<unsigned __int64,unsigned __int64,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=unsigned __int64,
+              _Other2=unsigned __int64
+          ]
+  		D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(621,9):
+  		see the first reference to 'std::pair<int,int>::pair' in 'Data::shape'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4267: 'initializing': conversion from 'size_t' to '_Ty2', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4267:         with
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4267:         [
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4267:             _Ty2=int
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4267:         ]
+  (compiling source file 'IOT.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\6\IOT\Data.h(854,1): warning C4715: 'Data::feature_selection': not all control paths return a value
+  IOT.vcxproj -> D:\Internship\DHub & ODC\Code\TASK\6\IOT\x64\Debug\IOT.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
