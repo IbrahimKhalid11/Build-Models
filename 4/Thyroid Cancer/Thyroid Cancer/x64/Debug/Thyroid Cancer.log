@@ -1,0 +1,123 @@
+﻿  Thyroid Cancer.cpp
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(60,59): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(60,59): warning C4267:         with
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(60,59): warning C4267:         [
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(60,59): warning C4267:             _Ty=int
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(60,59): warning C4267:         ]
+  (compiling source file 'Thyroid%20Cancer.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(68,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Thyroid%20Cancer.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(99,55): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(99,55): warning C4267:         with
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(99,55): warning C4267:         [
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(99,55): warning C4267:             _Ty=int
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(99,55): warning C4267:         ]
+  (compiling source file 'Thyroid%20Cancer.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(109,53): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(109,53): warning C4267:         with
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(109,53): warning C4267:         [
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(109,53): warning C4267:             _Ty=int
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(109,53): warning C4267:         ]
+  (compiling source file 'Thyroid%20Cancer.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(116,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Thyroid%20Cancer.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(142,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Thyroid%20Cancer.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(273,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Thyroid%20Cancer.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(288,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Thyroid%20Cancer.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(306,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Thyroid%20Cancer.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(327,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Thyroid%20Cancer.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(335,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Thyroid%20Cancer.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(352,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Thyroid%20Cancer.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(378,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Thyroid%20Cancer.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(405,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Thyroid%20Cancer.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(406,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Thyroid%20Cancer.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(482,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Thyroid%20Cancer.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(483,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Thyroid%20Cancer.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(522,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Thyroid%20Cancer.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(523,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Thyroid%20Cancer.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(569,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Thyroid%20Cancer.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(728,22): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'double', possible loss of data
+  (compiling source file 'Thyroid%20Cancer.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(739,22): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'double', possible loss of data
+  (compiling source file 'Thyroid%20Cancer.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(770,24): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+  (compiling source file 'Thyroid%20Cancer.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(865,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Thyroid%20Cancer.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(866,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Thyroid%20Cancer.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\SVM.h(52,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Thyroid%20Cancer.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\SVM.h(53,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Thyroid%20Cancer.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Thyroid Cancer.cpp(211,13): warning C4129: ' ': unrecognized character escape sequence
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Thyroid Cancer.cpp(218,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,16): warning C4267: 'initializing': conversion from 'size_t' to '_Ty1', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,16): warning C4267:         with
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,16): warning C4267:         [
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,16): warning C4267:             _Ty1=int
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,16): warning C4267:         ]
+  (compiling source file 'Thyroid%20Cancer.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,16):
+  the template instantiation context (the oldest one first) is
+  	D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(604,9):
+  	see reference to function template instantiation 'std::pair<int,int>::pair<unsigned __int64,unsigned __int64,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=unsigned __int64,
+              _Other2=unsigned __int64
+          ]
+  		D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(604,9):
+  		see the first reference to 'std::pair<int,int>::pair' in 'Data::shape'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4267: 'initializing': conversion from 'size_t' to '_Ty2', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4267:         with
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4267:         [
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4267:             _Ty2=int
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4267:         ]
+  (compiling source file 'Thyroid%20Cancer.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\Data.h(837,1): warning C4715: 'Data::feature_selection': not all control paths return a value
+  Thyroid Cancer.vcxproj -> D:\Internship\DHub & ODC\Code\TASK\4\Thyroid Cancer\x64\Debug\Thyroid Cancer.exe
