@@ -1,0 +1,139 @@
+﻿  Salary.cpp
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(62,59): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(62,59): warning C4267:         with
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(62,59): warning C4267:         [
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(62,59): warning C4267:             _Ty=int
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(62,59): warning C4267:         ]
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(70,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(117,55): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(117,55): warning C4267:         with
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(117,55): warning C4267:         [
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(117,55): warning C4267:             _Ty=int
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(117,55): warning C4267:         ]
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(127,53): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(127,53): warning C4267:         with
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(127,53): warning C4267:         [
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(127,53): warning C4267:             _Ty=int
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(127,53): warning C4267:         ]
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(134,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(160,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(308,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(323,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(341,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(362,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(370,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(387,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(413,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(440,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(441,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(517,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(518,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(557,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(558,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(604,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(763,22): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'double', possible loss of data
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(774,22): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'double', possible loss of data
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(805,24): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(900,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(901,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\LinearRegression.h(28,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\LinearRegression.h(29,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\RandomForest.h(42,29): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\RandomForest.h(50,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\RandomForest.h(122,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\PCA.h(62,30): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\PCA.h(63,34): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Salary.cpp(117,13): warning C4129: ' ': unrecognized character escape sequence
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Salary.cpp(140,13): warning C4129: ' ': unrecognized character escape sequence
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Salary.cpp(145,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,16): warning C4267: 'initializing': conversion from 'size_t' to '_Ty1', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,16): warning C4267:         with
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,16): warning C4267:         [
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,16): warning C4267:             _Ty1=int
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,16): warning C4267:         ]
+  (compiling source file 'Salary.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,16):
+  the template instantiation context (the oldest one first) is
+  	D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(639,9):
+  	see reference to function template instantiation 'std::pair<int,int>::pair<unsigned __int64,unsigned __int64,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=unsigned __int64,
+              _Other2=unsigned __int64
+          ]
+  		D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(639,9):
+  		see the first reference to 'std::pair<int,int>::pair' in 'Data::shape'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4267: 'initializing': conversion from 'size_t' to '_Ty2', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4267:         with
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4267:         [
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4267:             _Ty2=int
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\utility(250,54): warning C4267:         ]
+  (compiling source file 'Salary.cpp')
+  
+D:\Internship\DHub & ODC\Code\TASK\5\Salary\Data.h(872,1): warning C4715: 'Data::feature_selection': not all control paths return a value
+  Salary.vcxproj -> D:\Internship\DHub & ODC\Code\TASK\5\Salary\x64\Debug\Salary.exe
